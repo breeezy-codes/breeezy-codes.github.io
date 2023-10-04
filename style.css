@@ -55,7 +55,7 @@ h1 {
   text-align: center;
 }
 
-#ProfilePic {
+.ProfilePic {
   width: 20px;
   height: 20px;
   align: center;
