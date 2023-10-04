@@ -1,3 +1,4 @@
+/* Declaring Fonts */
 @font-face {
   font-family: "English Gothic";
   src: url(English Gothic, 17th c.TTF);
@@ -98,6 +99,7 @@
   src: url(Roboto-Thin.ttf);
 }
 
+/* Body Attributes */
 body{
   background-color: black;
 }
@@ -130,18 +132,12 @@ body{
   color: Ivory;
 }
 
+/* Header Items */
 h1 {
   text-align: center;
   font-family: TATTI;
   color: Ivory;
   font-size: 100px;
-}
-
-#Header-Paragraph {
-  font-family: Comicbon;
-  text-align: center;
-  color: Ivory;
-  font-size: 70px;
 }
 
 img.avatar-center {
@@ -153,6 +149,14 @@ img.avatar-center {
   border-radius: 50%
 }
 
+#Header-Paragraph {
+  font-family: Comicbon;
+  text-align: center;
+  color: Ivory;
+  font-size: 70px;
+}
+
+/* Stylizing Attributes */
 div {
   margin-bottom: 20px;
 }
@@ -170,7 +174,12 @@ div {
   margin-right: auto;
   width: 70%;
 }
-  
+
+.hyperlink {
+  color: DarkSlateBlue;
+}
+
+/* Paragraph Attributes */
 p.About-Me {
   font-family: Roboto-Regular;
   font-size: 20px;
@@ -178,6 +187,3 @@ p.About-Me {
   text-align: center;
 }
 
-.hyperlink {
-  color: DarkSlateBlue;
-}
