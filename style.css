@@ -99,8 +99,12 @@
   src: url(Roboto-Thin.ttf);
 }
 
+body{
+  background-color: black;
+}
+
 h1 {
-  font-color: DarkSlateGrey;
+  font-color: Ivory;
   text-align: center;
   font-family: BetterflyChristmas;
 }
@@ -108,6 +112,7 @@ h1 {
 #Header-Paragraph {
   font-family: Comicbon;
   text-align: center;
+  font-color: Ivory;
 }
 
 img.avatar-center {
@@ -129,6 +134,7 @@ img.avatar-center {
 p.About-Me {
   font-family: Roboto-Regular;
   font-size: 20px;
+  font-color: Ivory;
 }
 
 .hyperlink {
