@@ -15,3 +15,27 @@ h1 {
   font-family: Halloween;
   src: url(Halloween.ttf);
 }
+@font-face {
+  font-family: KGRedHands;
+  src: url(Halloween.ttf);
+}
+@font-face {
+  font-family: MondayGroovy;
+  src: url(Halloween.ttf);
+}
+@font-face {
+  font-family: TATTI;
+  src: url(Halloween.ttf);
+}
+@font-face {
+  font-family: TaylorGothic;
+  src: url(Halloween.ttf);
+}
+@font-face {
+  font-family: BetterflyChristmas;
+  src: url(Halloween.ttf);
+}
+@font-face {
+  font-family: Ubuntu;
+  src: url(Halloween.ttf);
+}
