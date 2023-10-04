@@ -125,6 +125,10 @@ img.avatar-center {
   border-radius: 50%
 }
 
+div {
+  margin-bottom: 20px;
+}
+
 .Center {
   display: block;
   margin-left: auto;
