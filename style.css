@@ -61,8 +61,8 @@ h1 {
   margin-right: auto;
   width: 50%;
 
-  #Avatar {
-    .dcf-circle;
+  .Avatar {
+    border-radius: 50%;
   }
   
 p.About-Me {
