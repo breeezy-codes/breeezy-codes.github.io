@@ -109,6 +109,7 @@ body{
   background-color: DarkSlateGrey;
   overflow: hidden;
   align: center;
+  height: 75px;
 }
 
 /* Style the links inside the navigation bar */
