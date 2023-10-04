@@ -1,6 +1,8 @@
 h1 {
   font-color: #2F4F4F;
   text-align: center;
-  font-face: Comicbon;
 }
-
+@font-face {
+  font-family: Comicbon;
+  src: url(Comicbon - persoanl use.ttf);
+}
