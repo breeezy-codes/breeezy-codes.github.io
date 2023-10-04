@@ -111,6 +111,7 @@ body{
   background-color: #101010;
   overflow: hidden;
   width: 100%;
+  font-family: Roboto-Regular;
 }
 
 /* Style the links inside the navigation bar */
