@@ -1,7 +1,7 @@
 h1 {
   font-color: #2F4F4F;
   text-align: center;
-  font-family: Halloween;
+  font-family: TaylorGothic;
 }
 @font-face {
   font-family: "English Gothic";
@@ -37,5 +37,5 @@ h1 {
 }
 @font-face {
   font-family: Ubuntu;
-  src: url(Halloween.ttf);
+  src: url(ubuntu.ttf);
 }
