@@ -60,3 +60,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+
+  .ProfilePic{
+    border: 20%;
+  }
