@@ -64,5 +64,7 @@ h1 {
   .Avatar{
     border-radius: 50%;
   }
-.About-Me {
+.About-Me 
+  font-family: KGRedHands;
+  font-size: 20px;
 }
