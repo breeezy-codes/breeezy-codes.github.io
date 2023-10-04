@@ -48,3 +48,9 @@ h1 {
   height: 160px;
   align: center;
 }
+div {
+  width: 100%;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
