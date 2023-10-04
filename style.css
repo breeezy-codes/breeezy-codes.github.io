@@ -55,16 +55,17 @@ h1 {
   text-align: center;
 }
 
-.center {
+.Center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 
-  .Avatar{
+  .Avatar {
     border-radius: 50%;
   }
-.About-Me 
+  
+.About-Me {
   font-family: KGRedHands;
   font-size: 20px;
 }
