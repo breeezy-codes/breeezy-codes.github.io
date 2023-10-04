@@ -44,6 +44,61 @@
   src: url(ubuntu.ttf);
 }
 
+@font-face {
+  font-family: Roboto-Black;
+  src: url(Roboto-Black.ttf);
+}
+
+@font-face {
+  font-family: Roboto-BlackItalic;
+  src: url(Roboto-BlackItalic.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Bold;
+  src: url(Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: Roboto-BoldItalic;
+  src: url(Roboto-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Italic;
+  src: url(Roboto-Italic.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Light;
+  src: url(Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: Roboto-LightItalic;
+  src: url(Roboto-LightItalic.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Medium;
+  src: url(Roboto-Medium.ttf);
+}
+
+@font-face {
+  font-family: Roboto-MediumItalic;
+  src: url(Roboto-MediumItalic.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Regular;
+  src: url(Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Thin;
+  src: url(Roboto-Thin.ttf);
+}
+
 h1 {
   font-color: #2F4F4F;
   text-align: center;
@@ -71,6 +126,6 @@ img.avatar-center {
 }
   
 p.About-Me {
-  font-family: KGRedHands;
+  font-family: Roboto-Regular;
   font-size: 20px;
 }
