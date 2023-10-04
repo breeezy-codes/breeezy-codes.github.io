@@ -7,3 +7,7 @@ h1 {
   font-family: "English Gothic";
   src: url(English Gothic, 17th c.TTF);
 }
+@font-face {
+  font-family: Comicbon;
+  src: url()
+}
