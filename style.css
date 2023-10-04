@@ -1,7 +1,7 @@
 h1 {
   font-color: #2F4F4F;
   text-align: center;
-  font-family: "English Gothic";
+  font-family: Halloween;
 }
 @font-face {
   font-family: "English Gothic";
@@ -13,5 +13,5 @@ h1 {
 }
 @font-face {
   font-family: Halloween;
-  src: url(Comicbon - personal use.ttf);
+  src: url(Halloween.ttf);
 }
