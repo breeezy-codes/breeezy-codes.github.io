@@ -108,7 +108,7 @@ body{
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #202020;
+  background-color: #101010;
   overflow: hidden;
   width: 100%;
 }
@@ -134,7 +134,7 @@ body{
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: DarkSeaGreen;
-  color: #202020;
+  color: #101010;
 }
 
 /* Header Items */
