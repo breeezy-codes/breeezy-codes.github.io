@@ -99,10 +99,12 @@
   src: url(Roboto-Thin.ttf);
 }
 
+
 /* Body Attributes */
 body{
   background-color: black;
 }
+
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -115,10 +117,10 @@ body{
 .topnav a {
   float: left;
   padding: 14px;
-  color: #202020;
+  color: Ivory;
   text-decoration: none;
   font-size: 17px;
-  width: 30%;
+  width: 33.33%;
   text-align: center;
   margin: auto;
 }
