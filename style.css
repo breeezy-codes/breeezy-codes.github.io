@@ -1,4 +1,3 @@
-}
 @font-face {
   font-family: "English Gothic";
   src: url(English Gothic, 17th c.TTF);
@@ -107,6 +106,7 @@ h1 {
   text-align: center;
   font-family: TATTI;
   color: Ivory;
+  font-size: 100px;
 }
 
 #Header-Paragraph {
