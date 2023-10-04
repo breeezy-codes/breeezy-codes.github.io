@@ -104,15 +104,15 @@ body{
 }
 
 h1 {
-  font-color: White;
   text-align: center;
   font-family: TATTI;
+  font-color: Ivory;
 }
 
 #Header-Paragraph {
   font-family: Comicbon;
   text-align: center;
-  font-color: White;
+  color: Ivory;
 }
 
 img.avatar-center {
@@ -134,9 +134,9 @@ img.avatar-center {
 p.About-Me {
   font-family: Roboto-Regular;
   font-size: 20px;
-  font-color: White;
+  color: Ivory;
 }
 
 .hyperlink {
-  font-color: DarkSlateBlue;
+  color: DarkSlateBlue;
 }
