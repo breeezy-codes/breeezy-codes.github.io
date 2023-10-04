@@ -108,17 +108,19 @@ body{
 .topnav {
   background-color: DarkSlateGrey;
   overflow: hidden;
-  align: center;
+  width: 100%;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  margin: auto;
+  float: left;
+  padding: 14px;
   color: Ivory;
-  text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  width: 33.33%;
+  text-align: center;
+  margin: auto;
 }
 
 /* Change the color of links on hover */
