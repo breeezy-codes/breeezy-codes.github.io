@@ -44,6 +44,7 @@ h1 {
   text-aligh: center;
 }
 #ProfilePic {
-  width: 200px;
-  height: 400px;
+  width: 160px;
+  height: 160px;
+  align: center;
 }
