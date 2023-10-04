@@ -55,14 +55,14 @@ h1 {
   text-align: center;
 }
 
-.img-center {
+img.img-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
 
-  .img-avatar {
+  img.img-avatar {
     border-radius: 50%;
   }
   
