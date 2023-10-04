@@ -61,7 +61,7 @@ h1 {
   margin-right: auto;
   width: 50%;
 
-  img.Avatar {
+  #Avatar {
     border-radius: 50%;
   }
   
