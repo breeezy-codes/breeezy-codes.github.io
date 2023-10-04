@@ -130,6 +130,13 @@ img.avatar-center {
   margin-right: auto;
   width: 40%;
 }
+
+.center-text {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
   
 p.About-Me {
   font-family: Roboto-Regular;
