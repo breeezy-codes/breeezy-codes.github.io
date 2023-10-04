@@ -106,7 +106,7 @@ body{
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: DarkSlareGrey;
+  background-color: DarkSlateGrey;
   overflow: hidden;
   align: center;
 }
@@ -124,13 +124,13 @@ body{
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: DarkSeaGreen;
-  color: Ivory;
+  color: Black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: DarkSeaGreen;
-  color: Ivory;
+  color: Black;
 }
 
 /* Header Items */
