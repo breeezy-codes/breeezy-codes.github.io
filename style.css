@@ -62,7 +62,7 @@ h1 {
   width: 50%;
 
   #Avatar {
-    border-radius: 50%;
+    .dcf-circle;
   }
   
 p.About-Me {
