@@ -43,3 +43,7 @@ h1 {
   font-family: BetterflyChristmas;
   text-aligh: center;
 }
+#ProfilePic {
+  width: 200px;
+  height: 400px;
+}
