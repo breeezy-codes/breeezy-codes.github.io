@@ -106,7 +106,7 @@ body{
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: DarkSlateGrey;
+  background-color: #202020;
   overflow: hidden;
   width: 100%;
 }
@@ -115,7 +115,7 @@ body{
 .topnav a {
   float: left;
   padding: 14px;
-  color: Ivory;
+  color: #202020;
   text-decoration: none;
   font-size: 17px;
   width: 33.33%;
@@ -125,14 +125,14 @@ body{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: DarkSeaGreen;
-  color: Black;
+  background-color: Black;
+  color: Ivory;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: DarkSeaGreen;
-  color: Black;
+  color: Ivory;
 }
 
 /* Header Items */
