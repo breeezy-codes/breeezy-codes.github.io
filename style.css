@@ -100,7 +100,7 @@
 }
 
 h1 {
-  font-color: #2F4F4F;
+  font-color: DarkSlateGrey;
   text-align: center;
   font-family: BetterflyChristmas;
 }
@@ -129,4 +129,8 @@ img.avatar-center {
 p.About-Me {
   font-family: Roboto-Regular;
   font-size: 20px;
+}
+
+.hyperlink {
+  font-color: DarkSlateGrey;
 }
