@@ -109,7 +109,7 @@ body{
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #101010;
-  overflow: hidden;
+  overflow: auto;
   width: 100%;
   font-family: Roboto-Regular;
 }
