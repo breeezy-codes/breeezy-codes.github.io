@@ -112,7 +112,7 @@ body{
   overflow: auto;
   width: 100%;
   font-family: Roboto-Regular;
-  display: flex;
+  display: inline-block;
 }
 
 /* Style the links inside the navigation bar */
@@ -122,8 +122,8 @@ body{
   color: Ivory;
   text-decoration: none;
   font-size: 17px;
-  width: 25%;
   text-align: center;
+  width: 25%;
 }
 
 /* Change the color of links on hover */
