@@ -116,14 +116,17 @@ body{
   margin: 5px;
 }
 
-/* Style the links inside the navigation bar */
+/* Style the links inside the navigation bar UL */
 .topnav a {
+  list-style-type: none;
   float: left;
-  padding: 12px;
+  padding: 10px;
   color: Ivory;
   text-decoration: none;
   font-size: 17px;
   width: 25%;
+  overflow: hidden;
+  display: flex;
 }
 
 /* Change the color of links on hover */
