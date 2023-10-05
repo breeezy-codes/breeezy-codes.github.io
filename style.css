@@ -107,8 +107,6 @@
 body{
   background-color: black;
   margin: 0;
-  width: 100vw;
-  height: 100vh;
 }
 
 
@@ -212,8 +210,6 @@ img.avatar-center {
 div {
   margin-bottom: 40px;
   margin-top: 40px;
-  width: 100vw;
-  height: 100vh;
 }
 
 .Center {
