@@ -108,8 +108,14 @@ body{
   background-color: black;
   margin: 0;
   background-image: url("bckgrndimg.jpg");
-  size: 100%;
+  height: 400px;
+/* Paralax */
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
+
 
 
 
