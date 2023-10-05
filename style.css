@@ -278,6 +278,11 @@ iframe {
   text-decoration: underline;
 }
 
+.map {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 
   
 /* Paragraph Attributes */
