@@ -106,13 +106,15 @@ body{
 }
 
 
-/* Add a black background color to the top navigation */
+/* Nav Menu */
 .topnav {
   background-color: #101010;
   overflow: auto;
   width: 100%;
   font-family: Roboto-Regular;
   display: inline-block;
+  text-align: center;
+  margin: 10px auto;
 }
 
 /* Style the links inside the navigation bar */
@@ -122,7 +124,6 @@ body{
   color: Ivory;
   text-decoration: none;
   font-size: 17px;
-  text-align: center;
   width: 25%;
 }
 
