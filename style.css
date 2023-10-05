@@ -111,6 +111,7 @@ body{
   background-color: Black;
   width: 100%;
   overflow: auto;
+  display: flex;
 }
 
 
