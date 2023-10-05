@@ -259,9 +259,11 @@ iframe {
   display: inline-block;
   font-size: 35px;
   font-family: roboto-regular;
+  text-decoration: none;
 }
 .contact-button: hover {
   background: DarkSlateGrey;
+  text-decoration: underline;
 }
 
 
