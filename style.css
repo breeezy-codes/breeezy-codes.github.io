@@ -116,6 +116,7 @@ body{
 
 /* Style the links inside the navigation bar */
 .topnav a {
+  float: left;
   padding: 14px;
   color: Ivory;
   text-decoration: none;
