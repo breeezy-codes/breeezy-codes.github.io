@@ -112,7 +112,7 @@ body{
   overflow: auto;
   width: 100%;
   font-family: Roboto-Regular;
-   display:inline-block;
+  display: flex;
 }
 
 /* Style the links inside the navigation bar */
