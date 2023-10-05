@@ -107,12 +107,9 @@
 body{
   background-color: black;
   margin: 0;
+  background-image: url("page.background.jpg");
 }
 
-.page.background {
-  background-image: url("page.background.jpg");
-  opacity: 20%;
-}
 
 
 
