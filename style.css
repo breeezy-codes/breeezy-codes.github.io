@@ -107,7 +107,11 @@
 body{
   background-color: black;
   margin: 0;
+}
+
+.page.background {
   background-image: url("page.background.jpg");
+  opacity: 20%;
 }
 
 
