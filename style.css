@@ -273,7 +273,7 @@ iframe {
   background: DarkSeaGreen;
   border: 1px;
   border-radius: 25px;
-  color: Ivory;
+  color: DarkSlateGrey;
   padding: 15px 32px;
   text-align: center;
   display: inline-block;
@@ -284,7 +284,7 @@ iframe {
 }
 
 .contact-button a: hover {
-  background: DarkSlateGrey;
+  background: Ivory;
   text-decoration: underline;
 }
 
