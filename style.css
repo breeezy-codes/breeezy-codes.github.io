@@ -250,13 +250,18 @@ iframe {
 }
 
 .contact-button {
-  background-color: DarkSeaGreen;
+  background: DarkSeaGreen;
   border: 1px;
+  border-radius: 30px;
   color: Ivory;
   padding: 15px 32px;
   text-align: center;
   display: inline-block;
   font-size: 35px;
+  font-family: roboto-regular;
+}
+.contact-button: hover {
+  background: DarkSlateGrey;
 }
 
 
