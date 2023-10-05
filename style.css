@@ -278,7 +278,7 @@ iframe {
   text-decoration: underline;
 }
 
-.div-button {
+.div-buttons {
   display: flex;
   justify-items: space-evenly;
   margin-left: auto;
