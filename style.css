@@ -108,7 +108,7 @@ body{
 
 /* Nav Menu */
 .topnav {
-  background-color: #101010;
+  background-color: Black;
   width: 100%;
   overflow: auto;
 }
@@ -127,7 +127,7 @@ body{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: Black;
+  background-color: #101010;
   color: Ivory;
 }
 
