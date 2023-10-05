@@ -112,6 +112,7 @@ body{
   width: 100%;
   overflow: auto;
   display: flex;
+  justify-items: space-evenly;
 }
 
 
