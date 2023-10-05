@@ -105,6 +105,9 @@ body{
   background-color: black;
 }
 
+ul {
+  display: inline-block;
+}
 
 /* Add a black background color to the top navigation */
 .topnav {
