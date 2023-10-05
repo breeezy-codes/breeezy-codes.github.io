@@ -249,14 +249,14 @@ iframe {
  margin-right: auto;
 }
 
-a href="tel:817-382-2293" {
-  style:"background-color: DarkSeaGreen;
-  border: none;
+.call-me {
+  background-color: DarkSeaGreen;
+  border: 1px;
   color: Ivory;
   padding: 15px 32px;
   text-align: center;
   display: inline-block;
-  font-size: 16px;">Call Me</a>
+  font-size: 16px;
 }
 
 
