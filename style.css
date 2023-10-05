@@ -311,6 +311,16 @@ iframe {
  margin-right: auto;
 }
 
+/* Fade-In */
+.fade-in {
+  animation: fadeIn 5s;
+}
+
+@-webkit-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
 .footer-button a{
   display: flex;
   justify-content: space-between;
