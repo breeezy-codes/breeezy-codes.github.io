@@ -139,6 +139,14 @@ body{
   color: #101010;
 }
 
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+}
+
 /* Header Items */
 h1 {
   text-align: center;
