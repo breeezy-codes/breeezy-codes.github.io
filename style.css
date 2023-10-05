@@ -105,9 +105,6 @@ body{
   background-color: black;
 }
 
-ul {
-  display: inline-block;
-}
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -115,6 +112,7 @@ ul {
   overflow: auto;
   width: 100%;
   font-family: Roboto-Regular;
+   display:inline-block;
 }
 
 /* Style the links inside the navigation bar */
@@ -132,7 +130,6 @@ ul {
 .topnav a:hover {
   background-color: Black;
   color: Ivory;
-  display:inline-block;
 }
 
 /* Add a color to the active/current link */
