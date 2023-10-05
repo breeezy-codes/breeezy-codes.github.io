@@ -219,6 +219,12 @@ div {
 
 .hyperlink {
   font-weight: bold;
+  color: Ivory;
+}
+
+.hyperlink visited {
+  font-weight: bold;
+  color: DarkSeaGreen;
 }
 
 iframe {
