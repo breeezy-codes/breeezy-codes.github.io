@@ -250,7 +250,7 @@ iframe {
  margin-right: auto;
 }
 
-.contact-button {
+.contact-button a {
   background: DarkSeaGreen;
   border: 1px;
   border-radius: 25px;
@@ -263,7 +263,7 @@ iframe {
   text-decoration: none;
   justify-items: space-evenly;
 }
-.contact-button: hover {
+.contact-button a: hover {
   background: DarkSlateGrey;
   text-decoration: underline;
 }
