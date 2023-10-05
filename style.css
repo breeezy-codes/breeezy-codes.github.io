@@ -129,6 +129,7 @@ body{
 .topnav a:hover {
   background-color: Black;
   color: Ivory;
+  display:inline-block;
 }
 
 /* Add a color to the active/current link */
