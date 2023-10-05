@@ -271,6 +271,7 @@ iframe {
   font-family: roboto-regular;
   text-decoration: none;
   justify-items: space-evenly;
+  margin: 0 auto;
 }
 .contact-button a: hover {
   background: DarkSlateGrey;
