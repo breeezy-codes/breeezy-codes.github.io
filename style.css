@@ -110,19 +110,19 @@ body{
 .topnav {
   background-color: #101010;
   width: 100%;
-  font-family: Roboto-Regular;
-  text-align: center;
-  margin: 5px;
-  padding: 5px;
-  list-style:none;
-  border-bottom: none;
+  overflow: auto;
 }
 
 /* Style the links inside the navigation bar UL */
 .topnav a {
+  float: left;
+  padding: 10px;
   color: Ivory;
+  text-decoration: none;
   font-size: 17px;
-  display: inline-block;
+  font-family: Roboto-Regular;
+  text-align: center;
+  width: 25%;
 }
 
 /* Change the color of links on hover */
