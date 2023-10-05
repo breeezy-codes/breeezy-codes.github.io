@@ -158,6 +158,14 @@ h1 {
   margin: 0 auto;
 }
 
+h2 {
+  text-align: left;
+  font-family: Comicbon;
+  color: Ivory;
+  font-size: 65px;
+  margin: 0 auto;
+}
+
 img.avatar-center {
   display: block;
   margin-left: auto;
