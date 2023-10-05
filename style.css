@@ -270,6 +270,7 @@ iframe {
   font-size: 35px;
   font-family: roboto-regular;
   text-decoration: none;
+  align: center;
 }
 
 .contact-button a: hover {
