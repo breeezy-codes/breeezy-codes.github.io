@@ -100,10 +100,16 @@
 }
 
 
+
+
+
 /* Body Attributes */
 body{
   background-color: black;
 }
+
+
+
 
 
 /* Nav Menu */
@@ -149,6 +155,10 @@ body{
   overflow: hidden;
 }
 
+
+
+
+
 /* Header Items */
 h1 {
   text-align: center;
@@ -183,6 +193,10 @@ img.avatar-center {
   margin: 0 auto;
 }
 
+
+
+
+
 /* Stylizing Attributes */
 div {
   margin-bottom: 40px;
@@ -213,6 +227,10 @@ iframe {
   margin-bottom: 40px;
   width: 60%;
 }
+
+
+
+
 
 /* Paragraph Attributes */
 p.About-Me {
