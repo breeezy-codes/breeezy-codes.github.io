@@ -222,9 +222,13 @@ div {
   color: Ivory;
 }
 
-.hyperlink visited {
+.hyperlink: visited {
   font-weight: bold;
   color: DarkSeaGreen;
+}
+
+.hyperlink: hover {
+  text-decoration: underline;
 }
 
 iframe {
