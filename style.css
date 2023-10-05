@@ -278,6 +278,14 @@ iframe {
   text-decoration: underline;
 }
 
+.div-button {
+  display: flex;
+  justify-items: space-evenly;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
   
 /* Paragraph Attributes */
 p.About-Me {
