@@ -287,9 +287,10 @@ iframe {
   align: center;
 }
 
-.contact-button a: hover {
+.contact-button a:hover {
   background: Ivory;
   text-decoration: underline;
+  color: DarkSlateGrey;
 }
 
 .div-buttons {
