@@ -266,7 +266,7 @@ iframe {
   color: Ivory;
   padding: 15px 32px;
   text-align: center;
-  display: inline-block;
+  display: flex;
   font-size: 35px;
   font-family: roboto-regular;
   text-decoration: none;
