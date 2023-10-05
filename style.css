@@ -228,6 +228,15 @@ iframe {
   width: 60%;
 }
 
+.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1920;
+  height: 1080;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
 
 
