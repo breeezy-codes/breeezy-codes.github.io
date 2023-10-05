@@ -251,10 +251,11 @@ iframe {
 .video {
  display: block;
  align-items: center;
- padding-top: 20px;
+ padding-top: 10px;
  padding-bottom: 40px;
  margin-left: auto;
  margin-right: auto;
+ height: 1080
 }
 
 .video1920 {
