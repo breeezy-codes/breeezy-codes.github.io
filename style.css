@@ -113,6 +113,7 @@ body{
   overflow: auto;
   display: flex;
   justify-items: space-evenly;
+  align-items: center;
 }
 
 
