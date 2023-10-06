@@ -146,6 +146,7 @@ body{
 .topnav a:hover {
   background-color: #101010;
   color: Ivory;
+  text-decoration: underline;
 }
 
 /* Add a color to the active/current link */
