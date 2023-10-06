@@ -343,13 +343,13 @@ p.About-Me {
   bottom:0;
   left:0;
   width:100%;
-  height: 90px;
+  height: 100px;
   background-color: black;
 }
 
 
 .footer-button a{
-  display: flex;
+  display: inline-block;
   justify-content: space-between;
   margin-left: auto;
   margin-right: auto;
@@ -357,6 +357,12 @@ p.About-Me {
   font-family: roboto-regular;
   font-size: 20px;
   color: Ivory;
+  background: DarkSeaGreen;
+  border: 1px;
+  color: DarkSlateGrey;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
 }
 
 
